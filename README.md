@@ -3,4 +3,5 @@
 
 调用方法：
     FloatView.getInstance(this).show();//显示
+    
     FloatView.getInstance(this).destory();//销毁
