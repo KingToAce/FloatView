@@ -14,7 +14,6 @@ import java.lang.reflect.Method;
 
 /**
  * 屏幕管理工具类
- * Created by 9130game on 2018/5/5.
  */
 
 public class ScreenUtils {
