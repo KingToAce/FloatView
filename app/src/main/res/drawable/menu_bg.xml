@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <corners
+                android:bottomLeftRadius="40dp"
+                android:bottomRightRadius="40dp"
+                android:topLeftRadius="40dp"
+                android:topRightRadius="40dp" /> <!-- 设置四个角的半径 -->
+
+            <solid android:color="#b0000000" /><!-- 定义填充的颜色值 -->
+            <!-- 描边 -->
+            <!--<stroke-->
+            <!--android:width="2dp"-->
+            <!--android:color="#fad3cf" /> &lt;!&ndash; 定义描边的宽度和描边的颜色值 &ndash;&gt;-->
+            <padding android:bottom="0dip" android:left="0dip" android:right="0dip" android:top="0dip" />
+        </shape>
+    </item>
+
+</selector>
